@@ -1,22 +1,11 @@
 {
-    "profile": [
+    "posts": [
         {
-            "id": "6359070a000d8710a6f27326",
-            "index": 102,
-            "avatar": "https://www.fillmurray.com/81/122",
-            "userName": "Sawyer Pope",
-            "fullName": "Sandoval Casey",
-            "isActive": true,
-            "phone": "+1 (913) 486-2867",
-            "email": "sandovalcasey@ecraze.com",
-            "bankStatus": "rejected",
-            "balance": 989526.1311,
-            "createdAt": "2022-10-08",
-            "updatedAt": "2022-03-28",
-            "currentPassword": "a22",
-            "bankName": "Affin Bank",
-            "accountHolder": "eee",
-            "bankNumber": "222"
+            "id": 1,
+            "title": "hello"
         }
-    ]
+    ],
+    "profile": {
+        "name": "typicode"
+    }
 }
