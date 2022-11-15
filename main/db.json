@@ -79,7 +79,7 @@
             "userName": "Ashley Dorsey",
             "transactionDate": "2022-08-03",
             "amount": 323043.4203,
-            "status": "cancelled",
+            "status": "pending",
             "type": "outflow",
             "approvedBy": "Lina Mcfadden",
             "approvedAt": "2019-09-26",
