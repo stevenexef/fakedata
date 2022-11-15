@@ -1,5 +1,5 @@
 {
-    "users": [
+    "user": [
         {
             "id": "6359070a5b100c8133cc8307",
             "index": 0,
@@ -71,7 +71,7 @@
             "updatedAt": "2016-04-29"
         }
     ],
-    "transactions": [
+    "transaction": [
         {
             "id": "6359297641363e184de6ae70",
             "index": 0,
