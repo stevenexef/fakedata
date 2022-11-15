@@ -272,5 +272,157 @@
             "accountHolder": "eee",
             "bankNumber": "222"
         }
+    ],
+    "bank": [
+        {
+            "id": 1,
+            "createdAt": "2022-11-09 18:52:52.254099000",
+            "updatedAt": "2022-11-09 18:52:52.254099000",
+            "createdBy": "ADMIN",
+            "updatedBy": "ADMIN",
+            "isActive": 1,
+            "name": "Agro Bank",
+            "description": "Agro Bank"
+        },
+        {
+            "id": 2,
+            "createdAt": "2022-11-09 18:52:52.262101000",
+            "updatedAt": "2022-11-09 18:52:52.262101000",
+            "createdBy": "ADMIN",
+            "updatedBy": "ADMIN",
+            "isActive": 1,
+            "name": "Alliance Bank",
+            "description": "Alliance Bank"
+        },
+        {
+            "id": 3,
+            "createdAt": "2022-11-09 18:52:52.264296000",
+            "updatedAt": "2022-11-09 18:52:52.264296000",
+            "createdBy": "ADMIN",
+            "updatedBy": "ADMIN",
+            "isActive": 1,
+            "name": "AmBank",
+            "description": "AmBank"
+        },
+        {
+            "id": 4,
+            "createdAt": "2022-11-09 18:52:52.266188000",
+            "updatedAt": "2022-11-09 18:52:52.266188000",
+            "createdBy": "ADMIN",
+            "updatedBy": "ADMIN",
+            "isActive": 1,
+            "name": "Bank Muamalat",
+            "description": "Bank Muamalat"
+        },
+        {
+            "id": 5,
+            "createdAt": "2022-11-09 18:52:52.268479000",
+            "updatedAt": "2022-11-09 18:52:52.268479000",
+            "createdBy": "ADMIN",
+            "updatedBy": "ADMIN",
+            "isActive": 1,
+            "name": "CIMB",
+            "description": "CIMB"
+        },
+        {
+            "id": 6,
+            "createdAt": "2022-11-09 18:52:52.270460000",
+            "updatedAt": "2022-11-09 18:52:52.270460000",
+            "createdBy": "ADMIN",
+            "updatedBy": "ADMIN",
+            "isActive": 1,
+            "name": "Exim Bank",
+            "description": "Exim Bank"
+        },
+        {
+            "id": 7,
+            "createdAt": "2022-11-09 18:52:52.272952000",
+            "updatedAt": "2022-11-09 18:52:52.272952000",
+            "createdBy": "ADMIN",
+            "updatedBy": "ADMIN",
+            "isActive": 1,
+            "name": "Hong Leong Bank",
+            "description": "Hong Leong Bank"
+        },
+        {
+            "id": 8,
+            "createdAt": "2022-11-09 18:52:52.274689000",
+            "updatedAt": "2022-11-09 18:52:52.274689000",
+            "createdBy": "ADMIN",
+            "updatedBy": "ADMIN",
+            "isActive": 1,
+            "name": "HSBC Bank",
+            "description": "HSBC Bank"
+        },
+        {
+            "id": 9,
+            "createdAt": "2022-11-09 18:52:52.276701000",
+            "updatedAt": "2022-11-09 18:52:52.276701000",
+            "createdBy": "ADMIN",
+            "updatedBy": "ADMIN",
+            "isActive": 1,
+            "name": "Maybank",
+            "description": "Maybank"
+        },
+        {
+            "id": 10,
+            "createdAt": "2022-11-09 18:52:52.278468000",
+            "updatedAt": "2022-11-09 18:52:52.278468000",
+            "createdBy": "ADMIN",
+            "updatedBy": "ADMIN",
+            "isActive": 1,
+            "name": "Maybank",
+            "description": "Maybank"
+        },
+        {
+            "id": 11,
+            "createdAt": "2022-11-09 18:52:52.280308000",
+            "updatedAt": "2022-11-09 18:52:52.280308000",
+            "createdBy": "ADMIN",
+            "updatedBy": "ADMIN",
+            "isActive": 1,
+            "name": "OCBC Bank",
+            "description": "OCBC Bank"
+        },
+        {
+            "id": 12,
+            "createdAt": "2022-11-09 18:52:52.281932000",
+            "updatedAt": "2022-11-09 18:52:52.281932000",
+            "createdBy": "ADMIN",
+            "updatedBy": "ADMIN",
+            "isActive": 1,
+            "name": "Public Bank",
+            "description": "Public Bank"
+        },
+        {
+            "id": 13,
+            "createdAt": "2022-11-09 18:52:52.283507000",
+            "updatedAt": "2022-11-09 18:52:52.283507000",
+            "createdBy": "ADMIN",
+            "updatedBy": "ADMIN",
+            "isActive": 1,
+            "name": "RHB",
+            "description": "RHB"
+        },
+        {
+            "id": 14,
+            "createdAt": "2022-11-09 18:52:52.285209000",
+            "updatedAt": "2022-11-09 18:52:52.285209000",
+            "createdBy": "ADMIN",
+            "updatedBy": "ADMIN",
+            "isActive": 1,
+            "name": "Standard Chartered Bank",
+            "description": "Standard Chartered Bank"
+        },
+        {
+            "id": 15,
+            "createdAt": "2022-11-09 18:52:52.287120000",
+            "updatedAt": "2022-11-09 18:52:52.287120000",
+            "createdBy": "ADMIN",
+            "updatedBy": "ADMIN",
+            "isActive": 1,
+            "name": "UOB",
+            "description": "UOB"
+        }
     ]
 }
